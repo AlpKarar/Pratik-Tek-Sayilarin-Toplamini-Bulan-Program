@@ -14,9 +14,6 @@ public class Main
         
         int num, sum = 0;
         
-        //System.out.print("Enter a number: ");
-        //n = input.nextInt();
-        
         do {
             System.out.print("Enter a number: ");
             num = input.nextInt();
